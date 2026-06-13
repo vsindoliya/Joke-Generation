@@ -1,0 +1,23 @@
+body { 
+    text-align: center; 
+    font-family: Arial; 
+    margin-top: 100px; 
+    background: #fef9c3; 
+}
+h1 { 
+    margin-bottom: 20px; 
+}
+#joke-box { 
+    font-size: 1.2rem; 
+    margin: 20px auto; 
+    max-width: 500px; 
+}
+button { 
+    padding: 10px 24px; 
+    font-size: 1rem; 
+    cursor: pointer; 
+    background: #f59e0b; 
+    border: none; 
+    border-radius: 8px; 
+    color: white; 
+}
